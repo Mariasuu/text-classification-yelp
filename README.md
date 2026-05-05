@@ -4,8 +4,6 @@ Multiclass text classification of Yelp reviews (1–5 stars) using TF-IDF and BE
 ## Описание проекта
 
 В данном проекте решается задача многоклассовой классификации текста:  
-Данные взяты из датасета **Yelp Review Full** (HuggingFace).
-
 Необходимо по тексту пользовательского отзыва определить его класс — оценку от 1 до 5.
 
 Для решения задачи используется датасет yelp_review_full из библиотеки HuggingFace.
